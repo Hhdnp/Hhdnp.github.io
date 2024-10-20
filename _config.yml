@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Hhdnp/CobAlT
 language: zh-CN
 timezone: ''
 
@@ -45,10 +45,10 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: false
+#  line_number: false
   auto_detect: true
-  tab_replace: ''
-  wrap: true
+#  tab_replace: ''
+#  wrap: true
   hljs: true
 prismjs:
   enable: false
@@ -103,3 +103,9 @@ theme: nexmoe
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+math:
+  engine: 'mathjax'
+  mathjax:
+    src: custom_mathjax_source
+
