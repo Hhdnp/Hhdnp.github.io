@@ -14,16 +14,14 @@ layout: py
 
 ## 友情链接
 
-- [![折影轻梦](https://avatar.mixcm.com/github/nexmoe)](https://nexmoe.com/ "折影轻梦")
+博客主题原作者：
+- [![折影轻梦](https://unavatar.io/nexmoe?ttl=21)](https://nexmoe.com/ "折影轻梦")
 
 
 ## 添加友链
 
+↓主题原作者博客
 > 名称：折影轻梦
 > 介绍：崇尚自由、热爱科学、热爱艺术。
 > 链接：https://nexmoe.com/
 > LOGO：https://avatar.mixcm.com/github/nexmoe
-
-需要更新头像或者链接请留言，有时间会处理的
-
-网站可访问却没有反链的，我会直接删除
