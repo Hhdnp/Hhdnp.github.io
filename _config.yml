@@ -109,3 +109,4 @@ math:
   mathjax:
     src: custom_mathjax_source
 
+markdown: kramdown
