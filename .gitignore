@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 Diary-*-*-*.md
+Diary-*-*.md
 Thoughts-[123456].md
