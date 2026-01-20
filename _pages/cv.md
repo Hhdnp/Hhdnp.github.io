@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Not modified, template remaining
 
 {% include base_path %}
 

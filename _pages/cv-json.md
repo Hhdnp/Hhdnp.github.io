@@ -6,6 +6,7 @@ author_profile: false
 redirect_from:
   - /resume-json
 ---
+# Not modified, template remaining
 
 {% include base_path %}
 
