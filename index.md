@@ -12,7 +12,7 @@ My research interests include **machine learning** and its applications in **com
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Multimodal Learning** fine-tuning multimodal large language model
+- **Multimodal Learning:** fine-tuning multimodal large language model
 
 ## News
 
