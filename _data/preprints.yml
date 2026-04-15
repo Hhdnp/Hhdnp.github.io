@@ -1,0 +1,9 @@
+main:
+
+  - title: SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning
+    authors: Zhen-Hao Xie, Jun-Tao Tang, <strong>Yu-Cheng Shi</strong>, Han-Jia Ye, De-Chuan Zhan, Da-Wei Zhou
+    conference_short: arXiv
+    conference: arXiv:2602.01990, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2602.01990
+    image: ./assets/img/same.png
