@@ -16,7 +16,7 @@ My research interests include **machine learning** and its applications in **com
 
 ## News
 
-- Currently None
+- **[May. 2026]** Two papers are accepted to ICML 2026.
 
 {% include_relative _includes/publications.md %}
 

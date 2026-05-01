@@ -1,1 +1,17 @@
 main:
+
+  - title: "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning"
+    authors: Zhen-Hao Xie*, Jun-Tao Tang*, <strong>Yu-Cheng Shi</strong>, Han-Jia Ye, De-Chuan Zhan, Da-Wei Zhou <br> (* Equal contribution)
+    conference_short: ICML
+    conference: International Conference on Machine Learning. (<strong>ICML</strong>), 2026
+    year: 2026
+    pdf: https://arxiv.org/pdf/2602.01990
+    image: ./assets/img/SAME.png
+
+  - title: "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning"
+    authors: Zhen-Hao Xie*, <strong>Yu-Cheng Shi*</strong>, Da-Wei Zhou <br> (* Equal contribution)
+    conference_short: ICML
+    conference: International Conference on Machine Learning. (<strong>ICML</strong>), 2026
+    year: 2026
+    pdf: https://hhdnp.github.io/
+    image: ./assets/img/AREA.png
