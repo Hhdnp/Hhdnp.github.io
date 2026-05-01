@@ -1,7 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<h3 class="pub-subsection" style="margin: 30px 0px -30px;">Preprints</h3>
-
+<h3 class="pub-subsection" style="margin: 35px 0px -30px;">Publications</h3>
 <div class="publications">
 <ol class="bibliography">
 
@@ -51,8 +50,8 @@
 
 </ol>
 </div>
-<h3 class="pub-subsection" style="margin: 35px 0px -30px;">Publications</h3>
 
+<h3 class="pub-subsection" style="margin: 30px 0px -30px;">Preprints</h3>
 <div class="publications">
 <ol class="bibliography">
 
