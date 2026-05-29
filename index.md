@@ -4,9 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a third-year undergraduate in [School of Computer Science at Nanjing University](https://cs.nju.edu.cn/). Currently (Oct. 2025-), I am working as a research intern in [LAMDA Group, Nanjing University](https://www.lamda.nju.edu.cn/) under the supervision of [Dr. Da-Wei Zhou](https://www.lamda.nju.edu.cn/zhoudw/index.html).
-
-My research interests include **machine learning** and its applications in **computer vision**, especially focusing on **continual learning**, and **multimodal large language models**.
+I am a third-year undergraduate in [School of Computer Science at Nanjing University](https://cs.nju.edu.cn/). Currently (Oct. 2025-), I am working as a research intern under the supervision of [Dr. Da-Wei Zhou](https://www.lamda.nju.edu.cn/zhoudw/index.html) in [LAMDA Group, Nanjing University](https://www.lamda.nju.edu.cn/).
 
 ## Research Interests
 
@@ -15,6 +13,7 @@ My research interests include **machine learning** and its applications in **com
 - **Continual Learning:** catastrophic forgetting avoidance
 
 ## News
+- **[May. 2026]** We release [a toolbox for multimodal continual instruction tuning](https://github.com/LAMDA-CL/Prism) ([Technical Report](https://arxiv.org/abs/2605.26110))
 
 - **[May. 2026]** Two papers are accepted to ICML 2026.
 

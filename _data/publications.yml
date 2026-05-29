@@ -5,6 +5,7 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning. (<strong>ICML</strong>), 2026
     year: 2026
+    code: https://github.com/LAMDA-CL/Prism
     pdf: https://arxiv.org/pdf/2602.01990
     image: ./assets/img/SAME.png
 
@@ -13,5 +14,6 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning. (<strong>ICML</strong>), 2026
     year: 2026
-    pdf: https://hhdnp.github.io/
+    code: https://github.com/LAMDA-CL/ICML2026-AREA
+    pdf: https://arxiv.org/abs/2605.28809
     image: ./assets/img/AREA.png

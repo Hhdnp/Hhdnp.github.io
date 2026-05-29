@@ -1,1 +1,10 @@
 main:
+
+  - title: Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning
+    authors: Jun-Tao Tang*, <strong>Yu-Cheng Shi*</strong>, Da-Wei Zhou <br> (* Equal contribution)
+    conference_short: arXiv
+    conference: arXiv:2605.26110, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2605.26110
+    code: https://github.com/LAMDA-CL/Prism
+    image: ./assets/img/Prism.png
