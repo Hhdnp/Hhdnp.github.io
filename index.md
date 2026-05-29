@@ -13,7 +13,7 @@ I am a third-year undergraduate in [School of Computer Science at Nanjing Univer
 - **Continual Learning:** catastrophic forgetting avoidance
 
 ## News
-- **[May. 2026]** We release [a toolbox for multimodal continual instruction tuning](https://github.com/LAMDA-CL/Prism) ([Technical Report](https://arxiv.org/abs/2605.26110))
+- **[May. 2026]** We release [a toolbox for MCIT](https://github.com/LAMDA-CL/Prism) ([Technical Report](https://arxiv.org/abs/2605.26110))
 
 - **[May. 2026]** Two papers are accepted to ICML 2026.
 
