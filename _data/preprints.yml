@@ -1,6 +1,15 @@
 main:
 
   - title: "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning"
+    authors: <strong>Yu-Cheng Shi</strong>*, Zhen-Hao Xie*, Yu-Cheng Shi, Da-Wei Zhou <br> (* Equal contribution)
+    conference_short: arXiv
+    conference: arXiv:2606.02576, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2606.02576
+    code: https://github.com/LAMDA-CL/Prism
+    image: ./assets/img/ProtoAda.png
+  
+  - title: "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning"
     authors: Jun-Tao Tang*, <strong>Yu-Cheng Shi*</strong>, Zhen-Hao Xie, Da-Wei Zhou <br> (* Equal contribution)
     conference_short: arXiv
     conference: arXiv:2605.26110, 2026.
@@ -8,3 +17,12 @@ main:
     pdf: https://arxiv.org/pdf/2605.26110
     code: https://github.com/LAMDA-CL/Prism
     image: ./assets/img/Prism.png
+  
+  - title: "CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning"
+    authors: Jun-Tao Tang, Zhen-hao Xie, <strong>Yu-Cheng Shi</strong>, Da-Wei Zhou
+    conference_short: arXiv
+    conference: arXiv:2606.02502, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2606.02502
+    code: https://hhdnp.github.io
+    image: ./assets/img/CRAM.png
