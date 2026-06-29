@@ -19,7 +19,7 @@ main:
     image: ./assets/img/Prism.png
   
   - title: "CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning"
-    authors: Jun-Tao Tang, Zhen-hao Xie, <strong>Yu-Cheng Shi</strong>, Da-Wei Zhou
+    authors: Jun-Tao Tang*, Zhen-hao Xie*, <strong>Yu-Cheng Shi</strong>, Da-Wei Zhou <br> (* Equal contribution)
     conference_short: arXiv
     conference: arXiv:2606.02502, 2026.
     year: 2026

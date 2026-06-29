@@ -10,7 +10,7 @@ I am a third-year undergraduate in [School of Computer Science at Nanjing Univer
 
 - **Multi-Modal Learning:** multi-modal alignment, continual instruction tuning
 - **Transfer Learning:** parameter-efficient fine-tuning, pretrained-model reuse
-- **Continual Learning:** catastrophic forgetting avoidance
+- **Continual Learning:** mitgating catastrophic forgetting
 
 ## News
 - **[May. 2026]** We release [a toolbox for MCIT](https://github.com/LAMDA-CL/Prism) ([Technical Report](https://arxiv.org/abs/2605.26110))
