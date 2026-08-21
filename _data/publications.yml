@@ -17,3 +17,12 @@ main:
     code: https://github.com/LAMDA-CL/ICML2026-AREA
     pdf: https://arxiv.org/abs/2605.28809
     image: ./assets/img/AREA.png
+
+  - title: "CRAM: Centroid-Routing and Adaptive MoE for Multimodal Continual Instruction Tuning"
+    authors: Jun-Tao Tang*, Zhen-hao Xie*, <strong>Yu-Cheng Shi</strong>, Da-Wei Zhou <br> (* Equal contribution)
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing. (<strong>EMNLP</strong>), 2026
+    year: 2026
+    code: https://hhdnp.github.io
+    pdf: https://arxiv.org/pdf/2606.02502
+    image: ./assets/img/CRAM.png
