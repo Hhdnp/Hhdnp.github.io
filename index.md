@@ -13,9 +13,11 @@ I am a third-year undergraduate in [School of Computer Science at Nanjing Univer
 - **Continual Learning:** mitgating catastrophic forgetting
 
 ## News
+- **[Aug. 2026]** One paper about continual instruction tuning is accepted to EMNLP 2026.
+
 - **[May. 2026]** We release [a toolbox for MCIT](https://github.com/LAMDA-CL/Prism) ([Technical Report](https://arxiv.org/abs/2605.26110))
 
-- **[May. 2026]** Two papers are accepted to ICML 2026.
+- **[May. 2026]** Two papers about continual learning are accepted to ICML 2026.
 
 {% include_relative _includes/publications.md %}
 
